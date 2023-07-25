@@ -1,0 +1,10 @@
+* cl-myriam
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://codeberg.org/arisunz/cl-myriam.git   |
+| commit  |   |
+| systems | cl-myriam |
+|---------+-------------------------------------------|
+
