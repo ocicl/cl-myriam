@@ -2,9 +2,8 @@
 
 
 
-3a5251b---------+-------------------------------------------|
-3a5251b source  | git:https://codeberg.org/arisunz/cl-myriam.git   |
-3a5251b commit  |   |
-3a5251b systems | cl-myriam |
-3a5251b---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://codeberg.org/arisunz/cl-myriam.git |
+| commit  | 3a5251b                                        |
+| systems | cl-myriam                                      |
+|---------+------------------------------------------------|
